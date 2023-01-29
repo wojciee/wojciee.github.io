@@ -9,7 +9,7 @@
 <b>Pull request</b>
 <p>Utwórz pull requesta, aby poprosić współpracowników o opinię na temat zmian. Przegląd pull requesta jest tak cenny, że niektóre repozytoria wymagają zatwierdzenia przeglądu przed scaleniem pull requesta. Jeśli potrzebujesz wcześniejszej opinii lub porady przed ukończeniem zmian, możesz oznaczyć pull requesta jako wersję roboczą. Podczas tworzenia pull requesta dołącz podsumowanie zmian i problem, który rozwiązują. Możesz dołączyć obrazy, łącza i tabele, aby pomóc w przekazywaniu tych informacji. </p>
 
-<b>Adres komentarzy do recenzji</b>
+<b>komentarze do recenzji</b>
 <p>Recenzenci mogą zostawiać pytania, komentarze i sugestie, mogą też komentować całe żądanie ściągnięcia lub dodawać komentarze do określonych wierszy. Ty i recenzenci możecie wstawiać obrazy lub sugestie kodu w celu wyjaśnienia komentarzy.</p>
 
 <p>Po zatwierdzeniu żądania ściągnięcia scal je. Spowoduje to automatyczne scalenie Twojej gałęzi, tak aby zmiany pojawiły się w gałęzi domyślnej. GitHub zachowuje historię komentarzy i zatwierdzeń w żądaniu ściągnięcia, aby pomóc przyszłym współtwórcom zrozumieć zmiany. Aby uzyskać więcej</p>
