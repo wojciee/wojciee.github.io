@@ -5,7 +5,7 @@
 
 <p>GitHub flow jest przydatny dla wszystkich, nie tylko dla programistów.</p>
 <p>Aby używać Github flow potrzebujesz konta GitHub i repozytorium.</p>
-<p>Tworzenie gałęzi \n Utwórz gałąź w swoim repozytorium.</p>
+<p>Tworzenie gałęzi <br/> Utwórz gałąź w swoim repozytorium.</p>
 <p></p>
 </body>
 </html>
