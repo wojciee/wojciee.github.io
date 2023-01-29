@@ -1,6 +1,6 @@
 
 remote_theme: jekyll-theme-architect
 
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: The title of your site
+description: A short description of your site's purpose
 
