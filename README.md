@@ -6,7 +6,8 @@ remote_theme: jekyll-theme-architect
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<h1>Github Flow</h1>
+
+<p>GitHub flow jest przydatny dla wszystkich, nie tylko dla programistów.</p>
 </body>
 </html>
